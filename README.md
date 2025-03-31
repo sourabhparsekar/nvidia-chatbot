@@ -1,6 +1,8 @@
 # Legal Q&A Chatbot
 
-This project is a Flask-based Q&A chatbot designed to answer legal contract-related questions using NVIDIA's LLM. The application ingests a dataset, processes it, and provides answers based on the given context.
+This project is a Flask-based Q&A chatbot designed to answer legal contract-related questions using NVIDIA's LLM. The application ingests a dataset, processes it, and provides answers based on the given context. 
+
+Blog: [Chatbot: The Quest for Knowledge](https://medium.com/@sourabhparsekar/chatbot-the-quest-for-knowledge-f98d09b5a945)
 
 ## Table of Contents
 - [Legal Q\&A Chatbot](#legal-qa-chatbot)
