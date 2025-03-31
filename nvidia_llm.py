@@ -1,7 +1,6 @@
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 import os
 from dotenv import load_dotenv
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 load_dotenv()
 
