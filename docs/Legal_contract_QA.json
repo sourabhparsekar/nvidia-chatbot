@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "category": "Basic Contract Terms",
+        "question": "What is a contract?",
+        "answer": "A contract is a legal agreement between two or more parties that is enforceable by law."
+      },
+      {
+        "category": "Basic Contract Terms",
+        "question": "What are the essential elements of a contract?",
+        "answer": "The essential elements of a contract include offer, acceptance, consideration, and mutual intent to be bound."
+      },
+      {
+        "category": "Specific Types of Contracts",
+        "question": "What is a non-disclosure agreement?",
+        "answer": "A non-disclosure agreement (NDA) is a legally binding contract that outlines confidential information shared between parties and ensures its secrecy."
+      },
+      {
+        "category": "Breach and Termination",
+        "question": "What happens if a contract is breached?",
+        "answer": "If a contract is breached, the affected party may seek remedies such as damages, specific performance, or termination of the contract."
+      },
+      {
+        "category": "Breach and Termination",
+        "question": "How can a contract be terminated?",
+        "answer": "A contract can be terminated through mutual agreement, breach of contract, impossibility of performance, or by law."
+      },
+      {
+        "category": "Specific Types of Contracts",
+        "question": "What is an employment contract?",
+        "answer": "An employment contract stipulates the terms and conditions of employment, including duties, compensation, and termination clauses."
+      },
+      {
+        "category": "Specific Types of Contracts",
+        "question": "What is a lease agreement?",
+        "answer": "A lease agreement outlines the terms of renting property, including rent, lease duration, and responsibilities of the tenant and landlord."
+      },
+      {
+        "category": "Common Contract Clauses",
+        "question": "What are force majeure clauses?",
+        "answer": "Force majeure clauses in contracts excuse performance when an unforeseen event prevents either party from fulfilling obligations."
+      },
+      {
+        "category": "Common Contract Clauses",
+        "question": "What is a severability clause?",
+        "answer": "A severability clause ensures that if one part of a contract is deemed invalid, the remainder of the agreement remains enforceable."
+      },
+      {
+        "category": "Common Contract Clauses",
+        "question": "What is a confidentiality clause?",
+        "answer": "A confidentiality clause prohibits the disclosure of sensitive information by either party to third parties."
+      },
+      {
+        "category": "Drafting and Signatures",
+        "question": "What is required for a contract to be legally binding?",
+        "answer": "A contract must have offer and acceptance, legally competent parties, consideration of value, mutual intent, and legal formalities like witnesses or notarization where required."
+      },
+      {
+        "category": "Drafting and Signatures",
+        "question": "Can electronic signatures be used in contracts?",
+        "answer": "Yes, in many jurisdictions, electronic signatures are legally valid provided they meet certain criteria, such as being securely authenticated."
+      },
+      {
+        "category": "Enforcement and Remedies",
+        "question": "What remedies are available for breach of contract?",
+        "answer": "Remedies include damages (compensatory or punitive), specific performance, injunctions, and contract termination."
+      },
+      {
+        "category": "International Contracts",
+        "question": "How are international contracts typically enforced?",
+        "answer": "International contracts often rely on mutual agreements, international treaties, and the legal systems of the jurisdictions involved."
+      },
+      {
+        "category": "Legal Drafting and Review",
+        "question": "Why is it important to have a lawyer review contracts?",
+        "answer": "A lawyer ensures the contract is legally sound, protects your interests, and complies with relevant laws and regulations."
+      },
+      {
+        "category": "Amendments and Renewals",
+        "question": "How can a contract be amended?",
+        "answer": "Contracts are typically amended through mutual agreement, with written amendments that are signed by all parties."
+      },
+      {
+        "category": "Real-Life Scenarios",
+        "question": "What should you do if you suspect a contract breach?",
+        "answer": "Document all relevant communications, consult a legal professional, and consider discussing the issue with the other party to seek resolution."
+      },
+      {
+        "category": "Specific Types of Contracts",
+        "question": "What is a service contract?",
+        "answer": "A service contract outlines the terms under which one party agrees to provide services to another party, detailing scope, payment, and other conditions."
+      },
+      {
+        "category": "Specific Types of Contracts",
+        "question": "What is a software license agreement?",
+        "answer": "A software license agreement grants permission to use software under specific terms and conditions, outlining rights and restrictions."
+      },
+      {
+        "category": "Contract Disputes",
+        "question": "What are alternative dispute resolution methods in contracts?",
+        "answer": "Methods include mediation, arbitration, and negotiation, often outlined in the contract's dispute resolution clause."
+      }
+    ]
+  }
