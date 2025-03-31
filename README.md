@@ -31,7 +31,7 @@ Detailed dependency list can be found at [requirements.txt](requirements.txt)
 ## Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/legal-q-a-chatbot.git
+git clone https://github.com/sourabhparsekar/nvidia-chatbot.git
 cd legal-q-a-chatbot
 ```
 2. Install Python Packages
@@ -94,7 +94,7 @@ The application uses NVIDIA's LLM models and requires an active API subscription
 ### Additional Notes:
 
 - The `requirements.txt` file should include all the necessary Python packages. You might need to create this file by running `pip freeze > requirements.txt` after installing the required packages.
-- Update the repository URL (`https://github.com/yourusername/legal-q-a-chatbot.git`) with your actual GitHub repository URL.
+- Update the repository URL (`https://github.com/sourabhparsekar/nvidia-chatbot.git`) with your actual GitHub repository URL.
 - You might want to add more detailed error handling and logging to the application for production use.
 - Ensure all the API keys and sensitive information are properly secured and not exposed in the codebase or commits.
 
